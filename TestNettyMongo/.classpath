@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_25"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/je-5.0.58.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/json-lib-2.3-jdk13.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse9/TestNettyMongo/lib/netty-3.5.11.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
